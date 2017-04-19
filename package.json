@@ -1,0 +1,22 @@
+{
+  "name": "redacted",
+  "version": "1.0.0",
+  "description": "One of your clients have contacted you with a problem. Their Users have figured out that their chat messages aren't filtered and they can say anything that they want. The CEO dislikes the slang terms being used on the internet and wants to implement a system which will remove certain words and replace them.",
+  "main": "redacted.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles1104/Redacted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charles1104/Redacted/issues"
+  },
+  "homepage": "https://github.com/Charles1104/Redacted#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
